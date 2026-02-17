@@ -1,8 +1,8 @@
 ## Hi there, I'm David 👋
 
-Developing for over 10 years.
+Developing for over 10 years and I still love it 
 
-## What I’m learning and working on
+## What I’m working on
 
 - Bitcoin 🧡
 - Rust 🦀
