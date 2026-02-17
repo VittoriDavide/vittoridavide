@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm David 👋
 
-<!--
-**VittoriDavide/vittoridavide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developing for over 10 years.
 
-Here are some ideas to get you started:
+## What I’m learning and working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bitcoin 🧡
+- Rust 🦀
+
+## What I used to work on
+
+- Mobile Development (React Native)
+- Backend & Infrastructure (IoT, AWS, DynamoDB, Terraform)
+- Smart Contracts (ETH Solidity)
+
+## Contact
+- Email: me@vittoridavid.com
+- LinkedIn: https://linkedin.com/in/vittori
