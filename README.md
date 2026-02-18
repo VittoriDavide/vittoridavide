@@ -10,6 +10,7 @@ Systems engineer with 10+ years in backend and infrastructure
 - Bitcoin protocol & UTXO mechanics
 - Lightning
 - Self-custody & local custody models
+- Distributed Systems
 
 **Background**
 
