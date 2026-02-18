@@ -1,4 +1,4 @@
-Hi! I'm **David** 🦀
+Hi! I'm **David**
 
 Systems engineer with 10+ years in backend and infrastructure.
 Currently focused on Bitcoin and Lightning development in Rust.
