@@ -2,16 +2,6 @@ Hi! I'm **David**
 
 Systems engineer with 10+ years in backend and infrastructure  
 
-- 2+ years leading engineering teams.  
-- Currently focused on Bitcoin and Lightning development in Rust.
-
-**Interests**
-
-- Bitcoin protocol & UTXO mechanics
-- Lightning
-- Self-custody & local custody models
-- Distributed Systems
-
 **Background**
 
 - Cloud & IaC (AWS, DynamoDB, Terraform)
