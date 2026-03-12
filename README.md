@@ -1,6 +1,6 @@
 Hi! I'm **David**
 
-Systems engineer with 10+ years in backend and infrastructure
+10+ years developing
 
 - 2 years leading engineering teams.
 
