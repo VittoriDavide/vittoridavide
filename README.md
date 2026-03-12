@@ -1,6 +1,15 @@
-Hi! I'm **David**
+Hi! I'm **David**
 
-Systems engineer with 10+ years in backend and infrastructure  
+Systems engineer with 10+ years in backend and infrastructure
+
+- 2 years leading engineering teams.
+
+**Interests**
+
+- Bitcoin protocol & UTXO mechanics
+- Lightning
+- Self-custody & local custody models
+- Mobile Applications
 
 **Background**
 
